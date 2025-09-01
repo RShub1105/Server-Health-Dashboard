@@ -3,7 +3,7 @@
 A **real-time system monitoring dashboard** built with **Flask, psutil, Chart.js, and Bootstrap**.  
 It gives you a clean, modern, and interactive way to track your **CPU, Memory, Disk usage, and Uptime** — all in one place.  
 
-![Dashboard Preview]([assets/dashboard_preview.png](https://github.com/RShub1105/Server-Health-Dashboard/blob/main/Screenshot.png))  
+![Dashboard Preview](Screenshot.png)
 
 ---
 
