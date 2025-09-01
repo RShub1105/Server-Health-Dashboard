@@ -15,7 +15,7 @@ Built with **Python (Flask, psutil)** and **Chart.js + Bootstrap** for a clean a
 ---
 
 ## 📸 Screenshot
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](https://github.com/RShub1105/Server-Health-Dashboard/blob/main/Screenshot%20.png)
 
 ---
 
